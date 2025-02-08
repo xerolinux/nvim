@@ -16,6 +16,10 @@ Plugins included:
 * treesitter - https://github.com/nvim-treesitter/nvim-treesitter
 * vim-fugitive - https://github.com/tpope/vim-fugitive
 
+<p align="center">
+    <img width="750" src="https://i.imgur.com/Od2F2RU.png" alt="logo">
+</p>
+
 # neoVim Installation
 
 Once you select to install it from the toolkit, it will prompt you if yout to backup if you have an existing config, then pull our custom one. Backups can be found under `~/.config/jnvim.bk-=date` & `~/.local/share/nvim.bk-date`
