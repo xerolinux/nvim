@@ -1,4 +1,4 @@
-# Neovim configuration
+# Drew's neoVim configuration
 
 Plugins included:
 
@@ -14,6 +14,10 @@ Plugins included:
 * treesitter - https://github.com/nvim-treesitter/nvim-treesitter
 * vim-fugitive - https://github.com/tpope/vim-fugitive
 
-# Neovim Installation
+# neoVim Installation
 
 Once you select to install it from the toolkit, it will prompt you if yout to backup if you have an existing config, then pull our custom one. Backups can be found under `~/.config/jnvim.bk-=date` & `~/.local/share/nvim.bk-date`
+
+## Credits
+
+Of course credits go to [**Drew/JAGL**](https://github.com/drewgrif/nvim) for original config that I have modified a little bit to fit more with **XeroLinux**...
