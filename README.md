@@ -18,6 +18,6 @@ Plugins included:
 
 Once you select to install it from the toolkit, it will prompt you if yout to backup if you have an existing config, then pull our custom one. Backups can be found under `~/.config/jnvim.bk-=date` & `~/.local/share/nvim.bk-date`
 
-## Credits
+# Config Credits
 
-Of course credits go to [**Drew/JAGL**](https://github.com/drewgrif/nvim) for original config that I have modified a little bit to fit more with **XeroLinux**...
+Of course credits go to [**Drew/JAGL**](https://github.com/drewgrif/nvim) for original config that I have modified a little bit to fit more with **XeroLinux**. Changes include the removal of the faulty/iffy *markdown-live-preview* plugin, and the use of the **Dracula** theme instead of the one included in original config. Rest will be up to you. Hav fun !
