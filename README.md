@@ -1,5 +1,7 @@
 # Drew's neoVim configuration
 
+This here is a fork, sorta, of Drew's config that I have modified a little bit to fit more with **XeroLinux**. Changes include the removal of the faulty/iffy *markdown-live-preview* plugin, and the use of the **Dracula** theme instead of the one included in original config.
+
 Plugins included:
 
 * alpha - https://github.com/goolord/alpha-nvim
@@ -20,4 +22,4 @@ Once you select to install it from the toolkit, it will prompt you if yout to ba
 
 # Config Credits
 
-Of course credits go to [**Drew/JAGL**](https://github.com/drewgrif/nvim) for original config that I have modified a little bit to fit more with **XeroLinux**. Changes include the removal of the faulty/iffy *markdown-live-preview* plugin, and the use of the **Dracula** theme instead of the one included in original config. Rest will be up to you. Hav fun !
+Of course credits go to [**Drew/JAGL**](https://github.com/drewgrif/nvim) for original config. Use it, fork it, tweak it and have fun. That's the beauty of **FOSS**...  Have fun !
