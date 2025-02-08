@@ -22,4 +22,6 @@ Once you select to install it from the toolkit, it will prompt you if yout to ba
 
 # Config Credits
 
-Of course credits go to [**Drew/JAGL**](https://github.com/drewgrif/nvim) for original config. Use it, fork it, and tweak it. That's the beauty of **FOSS**. If you have any questions, please direct them to him as I do not and will never use **Vim** or any of its forks. Now go and have fun !
+Of course credits go to [**Drew/JAGL**](https://github.com/drewgrif/nvim) for original config. Use it, fork it, and tweak it. That's the beauty of **FOSS**. If you have any questions, please direct them to him as I do not and will never use **Vim** or any of its forks, I am a [**Cursor**](https://www.cursor.com) & [**Kate**](https://kate-editor.org) user with *nano* in the CLI.
+
+Now go and have fun !
